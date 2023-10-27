@@ -1,0 +1,2 @@
+b1: Coppy DataBase dán vào SQL và load dữ liệu(nếu có rồi bỏ qua)
+b2: Mở file QuanLyKhachHang_VNPT.sln và chạy
